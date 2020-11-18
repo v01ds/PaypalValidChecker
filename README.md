@@ -7,7 +7,7 @@ pip install selenium
 git clone https://github.com/v01ds/PaypalValidChecker/
 
 # Usage
-cd PaypalValidChecker
+cd PythonValidChecker
 
 python realchecker.py
 
