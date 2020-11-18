@@ -3,6 +3,7 @@ A script coded with Selenium for checking random mails if they are signed into P
 
 # Installation
 pip install selenium 
+
 git clone https://github.com/v01ds/PaypalValidChecker/
 
 # Usage
